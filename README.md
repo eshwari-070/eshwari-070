@@ -141,6 +141,19 @@ An automated attendance management system using face recognition, real-time imag
 > 📌 Academic project. The original source code is currently not available on my GitHub.
 
 ---
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eshwari-070&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshwari-070&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshwari-070&theme=tokyonight&hide_border=true"/>
+</p>
+---
 
 ## 🌱 Currently Learning
 
